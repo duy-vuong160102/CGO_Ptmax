@@ -1,0 +1,8 @@
+D:\GitHub\Project\BTVN\CGO_Ptmax\CGO_Ptmax\bin\Debug\CGO_Ptmax.exe.config
+D:\GitHub\Project\BTVN\CGO_Ptmax\CGO_Ptmax\bin\Debug\CGO_Ptmax.exe
+D:\GitHub\Project\BTVN\CGO_Ptmax\CGO_Ptmax\bin\Debug\CGO_Ptmax.pdb
+D:\GitHub\Project\BTVN\CGO_Ptmax\CGO_Ptmax\obj\Debug\CGO_Ptmax.csproj.AssemblyReference.cache
+D:\GitHub\Project\BTVN\CGO_Ptmax\CGO_Ptmax\obj\Debug\CGO_Ptmax.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Project\BTVN\CGO_Ptmax\CGO_Ptmax\obj\Debug\CGO_Ptmax.csproj.CoreCompileInputs.cache
+D:\GitHub\Project\BTVN\CGO_Ptmax\CGO_Ptmax\obj\Debug\CGO_Ptmax.exe
+D:\GitHub\Project\BTVN\CGO_Ptmax\CGO_Ptmax\obj\Debug\CGO_Ptmax.pdb
